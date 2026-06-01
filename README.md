@@ -348,5 +348,3 @@ superstore analysis.csv
 Jaiv Patel
 
 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
-
-This project was created to demonstrate practical business analytics skills using a real-world retail dataset.
