@@ -1,3 +1,11 @@
+## Project Documentation
+
+| Document | Description |
+|-----------|-------------|
+| [README.md](README.md) | Project overview and setup instructions |
+| [NOTES.md](NOTES.md) | Data analytics concepts and methodology used in this project |
+| [POWERBI_DASHBOARD.md](POWERBI_DASHBOARD.md) | Power BI dashboard overview, KPIs, and business insights |
+
 # Superstore Sales Analytics & Business Intelligence Project
 
 ## Project Overview
